@@ -5,6 +5,9 @@ A place to store, index, and crowd-source annotation for NCSS block diagrams.
 
 There are 5958 soil survey areas, each one of these is likely to have *at least* 1-3 diagrams, so there should be approximately 2,500 to 14,000 diagrams waiting to be archived.
 
+Internet Archive landing page for historic Soil Survey Manuscripts:
+https://archive.org/details/usda-soil-surveys?sort=-date
+
 
 # Tasks
 
