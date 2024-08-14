@@ -9,6 +9,17 @@ Internet Archive landing page for historic Soil Survey Manuscripts:
 https://archive.org/details/usda-soil-surveys?sort=-date
 
 
+# Resources
+  * https://archive.org/details/usda-soil-surveys
+  * https://casoilresource.lawr.ucdavis.edu/sde/?series=cecil#block-diagrams
+  * [Soil Survey Manual Chapter 4](https://www.nrcs.usda.gov/sites/default/files/2022-09/The-Soil-Survey-Manual.pdf)
+  * [The Art and Science of Soil-Landscape Block Diagrams: Examples of One Picture Being Worth More Than 1000 Words](https://acsess.onlinelibrary.wiley.com/doi/abs/10.2136/sh2011.3.0089)
+  * [Block Diagrams and Soil Profile Characteristics in Soil Genesis and Classification Courses](https://www.crops.org/files/publications/jnrlse/pdfs/jnr020/020-02-0086.pdf)
+  * Block diagrams for soil survey interpretations. compiled by Robert W. Eikleberry
+
+
+
+
 # Tasks
 
 ## Finish scanning historic block diagrams from paper surveys
