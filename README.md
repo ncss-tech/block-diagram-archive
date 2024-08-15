@@ -18,6 +18,11 @@ https://archive.org/details/usda-soil-surveys?sort=-date
   * Block diagrams for soil survey interpretations. compiled by Robert W. Eikleberry
 
 
+# Types of Diagrams
+
+## 
+
+
 
 
 # Tasks
